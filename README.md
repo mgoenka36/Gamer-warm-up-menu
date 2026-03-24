@@ -13,10 +13,14 @@ selections and you’ll be good to go. You do NOT need to open MySQL after
 installation.)
 3. Open the command prompt for your device and run:
 py -m pip install pygame
-pip install mysql-connector-python (If this doesn’t work, get the source
+
+pip install mysql-connector-python 
+(If this doesn’t work, get the source
 destination of your python files and run, <destination= -m pip install
-mysql-connector-python) (For example:
+mysql-connector-python) 
+(For example:
 "C:\Users\Manomay\AppData\Local\Programs\Python\Python313\python.exe"
 -m pip install mysql-connector-python)
-4. You’re all set. PLEASE SEPARATE THE FILES, HEADERS WILL BE
+
+5. You’re all set. PLEASE SEPARATE THE FILES, HEADERS WILL BE
 CLEARLY PROVIDED. Open up <interface.py= and run the program. 
