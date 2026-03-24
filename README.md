@@ -8,7 +8,7 @@ https://www.python.org/downloads/
 2. Install MySQL: https://dev.mysql.com/downloads/installer/
 (While installing, you do not need to edit anything. Once the installer is up and
 running, you just need to keep continuing till it prompts you for a password. Then,
-enter <admin=, all lowercase. Other than that, just keep continuing with the default
+enter "admin", all lowercase. Other than that, just keep continuing with the default
 selections and you’ll be good to go. You do NOT need to open MySQL after
 installation.)
 3. Open the command prompt for your device and run:
