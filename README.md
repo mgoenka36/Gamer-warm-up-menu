@@ -24,5 +24,4 @@ mysql-connector-python)
 "C:\Users\Manomay\AppData\Local\Programs\Python\Python313\python.exe"
 -m pip install mysql-connector-python)
 
-4. You’re all set. PLEASE SEPARATE THE FILES, HEADERS HAVE BEEN
-CLEARLY PROVIDED. Open up "interface.py" and run the program. 
+4. You’re all set. PLEASE DOWNLOAD THE FILES IN THE SAME FOLDER. Open up "interface.py" and run the program.
